@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+}
+nav {
+  width: 1000px;
+  display: flex;
+  justify-content: space-between;
+}
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
